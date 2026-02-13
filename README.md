@@ -36,7 +36,7 @@ The project uses the [Human Face Emotions Dataset](https://www.kaggle.com/datase
 ```bash
 git clone [https://github.com/your-username/Human-Face-Emotion-Recognition.git](https://github.com/your-username/Human-Face-Emotion-Recognition.git)
 cd Human-Face-Emotion-Recognition
-
+```
 
 1. Data Acquisition (Kaggle API)
 The notebook begins by setting up the environment to download the dataset programmatically.
