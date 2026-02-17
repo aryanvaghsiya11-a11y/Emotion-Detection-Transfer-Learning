@@ -5,6 +5,9 @@
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Transfer%20Learning-red)
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue)
 
+
+![image alt](https://github.com/aryanvaghsiya11-a11y/Emotion-Detection-Transfer-Learning/blob/d56e71606387c7994370f2ca05990840a694d250/Emotion-Detection.jpg)
+
 ## 📌 Project Overview
 
 This project implements a Deep Learning pipeline to recognize and classify human facial emotions. It leverages **Transfer Learning** techniques to achieve high accuracy by utilizing pre-trained models on the **Human Face Emotions** dataset.
